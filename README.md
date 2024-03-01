@@ -17,18 +17,18 @@ Ich erachte folgende Quellen als gut:
 ### Schritt 1 - Löcher bohren
 ca. 3 mm Durchmesser
 
-<img src="https://github.com/yasdfgr/lenovo-powersupply/blob/main/pictures/step(1).jpg" width="400" alt="Schritt 1">
+<img src="pictures/step(1).JPG" width="400" alt="Schritt 1">
 
 ---
 
 ### Schritt 2 - Zwischenraum entfernen
 
-<img src=pictures/step(2).jpg?raw=true width="400" alt="Schritt 2">
+<img src="pictures/step(2).JPG" width="400" alt="Schritt 2">
 
 ---
 
 ### Schritt 3 - Widerstand einlöten
-<img src=pictures/step(3).jpg?raw=true width="400" alt="Schritt 3">
+<img src="pictures/step(3).JPG" width="400" alt="Schritt 3">
 
 ## Online-Ressourcen
 
