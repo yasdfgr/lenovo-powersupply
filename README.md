@@ -25,5 +25,5 @@ Ich erachte folgende Quellen als gut:
 
 ### Videos
 
-https://www.youtube.com/watch?v=XO3D0d8a_fc
-https://www.youtube.com/watch?v=nvxkaqxeXsM
++ https://www.youtube.com/watch?v=XO3D0d8a_fc
++ https://www.youtube.com/watch?v=nvxkaqxeXsM
