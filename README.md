@@ -13,6 +13,14 @@ Ich erachte folgende Quellen als gut:
 
 ## Modifikation des Pollin-Adapters
 
+Schritt 1 - Löcher bohren, ca. 3 mm Durchmesser
+![Schritt 1](pictures/step (1).jpg "Schritt 1")
+
+Schritt 2 - Zwischenraum entfernen
+![Schritt 2](pictures/step (2).jpg "Schritt 2")
+
+Schritt 3 - Widerstand einlöten
+![Schritt 3](pictures/step (1).jpg "Schritt 3")
 
 
 ## Online-Ressourcen
