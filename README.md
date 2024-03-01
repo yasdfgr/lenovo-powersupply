@@ -17,7 +17,7 @@ Ich erachte folgende Quellen als gut:
 ### Schritt 1 - Löcher bohren
 ca. 3 mm Durchmesser
 
-<img src=pictures/step(1).jpg?raw=true width="400" alt="Schritt 1">
+<img src="https://github.com/yasdfgr/lenovo-powersupply/blob/main/pictures/step(1).jpg" width="400" alt="Schritt 1">
 
 ---
 
